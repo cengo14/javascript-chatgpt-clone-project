@@ -9,7 +9,7 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir ChatGPT klon
 - **Kullanıcı Sorgusu:** Kullanıcılar, metin kutusuna sorgularını girebilir.
 - **API Entegrasyonu:** Kullanıcı sorgularına uygun yanıtlar almak için bir API ile veritabanına bağlanır.
 - **Veri Gösterimi:** API'den alınan veriler ekranda gösterilir.
-- **Dark/light Mode** Tek simge üzerinden karanlık ve aydınlık modlar arasında geçiş yapma
+- **Dark/Light Mode** Tek simge üzerinden karanlık ve aydınlık modlar arasında geçiş yapma
 - **Responsive Tasarım:** Farklı cihazlara uyumlu bir kullanıcı arayüzü.
 
 ## Ekran Görüntüleri
