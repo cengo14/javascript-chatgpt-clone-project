@@ -31,7 +31,7 @@ Projeyi yerel olarak çalıştırmak için aşağıdaki adımları izleyin:
 
 3. **API Anahtarını Ekleyin:**
 
-   `api.js` dosyasına gidin ve API anahtarınızı ilgili değişkene atayın.
+   `main.js` dosyasına gidin ve API anahtarınızı ilgili değişkene atayın.
 
 4. **index.html dosyasını bir tarayıcıda açın:**
 
